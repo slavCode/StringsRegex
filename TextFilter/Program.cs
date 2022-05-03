@@ -15,7 +15,7 @@ namespace TextFilter
                 var censoredWord = "";
                 for (int i = 0; i < word.Length; i++) censoredWord += '*';
 
-                text = text.Replace(word, censoredWord);
+                text = text.Replace(word, new String('*', word.Length));
             }
             Console.WriteLine(text);
         }
