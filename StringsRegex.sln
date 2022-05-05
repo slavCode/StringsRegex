@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFilter", "TextFilter\Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromes", "Palindromes\Palindromes.csproj", "{0858665C-D4AD-483F-8307-E57B1FB26A4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchFullName", "MatchFullName\MatchFullName.csproj", "{F5DC94E4-FD2F-48E2-A5DA-CACE935267CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchPhoneNumber", "MatchPhoneNumber\MatchPhoneNumber.csproj", "{2D30346A-37A7-4D11-A2FE-FDE6A851664C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{0858665C-D4AD-483F-8307-E57B1FB26A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0858665C-D4AD-483F-8307-E57B1FB26A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0858665C-D4AD-483F-8307-E57B1FB26A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5DC94E4-FD2F-48E2-A5DA-CACE935267CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DC94E4-FD2F-48E2-A5DA-CACE935267CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DC94E4-FD2F-48E2-A5DA-CACE935267CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DC94E4-FD2F-48E2-A5DA-CACE935267CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D30346A-37A7-4D11-A2FE-FDE6A851664C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D30346A-37A7-4D11-A2FE-FDE6A851664C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D30346A-37A7-4D11-A2FE-FDE6A851664C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D30346A-37A7-4D11-A2FE-FDE6A851664C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
